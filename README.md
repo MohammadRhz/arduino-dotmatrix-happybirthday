@@ -1,2 +1,2 @@
 # arduino-dotmatrix-happybirthday
-Sample dot matrix project using Arduino and MatrizLed library.
+Sample 8x8 dot matrix project using Arduino, Max7219 and <a href="https://github.com/wayoda/LedControl">LEDControl</a> and <a href="https://github.com/danidask/MatrizLed">MatrizLed</a> libraries.
